@@ -1,2 +1,2 @@
 # VGG16
-VGG16 and the TFRecord file
+VGG16 Googlenet and the TFRecord file
